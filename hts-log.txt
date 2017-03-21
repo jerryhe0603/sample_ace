@@ -1,0 +1,14 @@
+HTTrack3.43-9+htsswf+htsjava launched on Wed, 10 Jul 2013 00:17:00 at http://easy-themes.tk/themes/preview/ace/index.html +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.png +*.tif +*.bmp
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "en, en, *" http://easy-themes.tk/themes/preview/ace/index.html -O1 D:\genesis\genesis_ace +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:17:52	Warning: 	file not stored in cache due to bogus state (incomplete type): easy-themes.tk/themes/preview/ace/assets/images/ie-spacer.gif
+00:17:52	Warning: 	file not stored in cache due to bogus state (incomplete type): easy-themes.tk/themes/preview/ace/assets/images/gritter.png
+00:17:52	Warning: 	file not stored in cache due to bogus state (incomplete type): easy-themes.tk/themes/preview/ace/assets/images/gritter-light.png
+
+HTTrack Website Copier/3.43-9 mirror complete in 57 seconds : 115 links scanned, 114 files written (2640718 bytes overall) [1354682 bytes received at 23766 bytes/sec], 1705926 bytes transfered using HTTP compression in 76 files, ratio 23%, 19.1 requests per connection
+(No errors, 3 warnings, 0 messages)
